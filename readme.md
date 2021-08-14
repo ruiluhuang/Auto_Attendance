@@ -54,7 +54,7 @@
 
     方法二：修改 Readme以自动触发Github-Actions工作流
 
-    进入Code页面，点击修改按钮
+    进入Code页面，点击修改 按钮
 
     ![20200817191741](https://i.loli.net/2020/12/06/DHy13dsNSxrchVz.png)
 
