@@ -52,7 +52,7 @@
 
     手动开启工作流的功能由[@sumowi](https://github.com/sumowi)通过/.github/workflows/python-package.yml文件中的workflow_dispatch实现
 
-    方法二：修改Readme以自动触发Github-Actions工作流
+    方法二：修改 Readme以自动触发Github-Actions工作流
 
     进入Code页面，点击修改按钮
 
